@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 .sect1 {
-    background: url(../dist/images/bg1.jfif);
+
     padding: 20px;
 }
